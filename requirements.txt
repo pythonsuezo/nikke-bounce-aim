@@ -1,0 +1,4 @@
+pygame>=2.5.0
+pywin32>=306
+# exe 化する場合のみ: pyinstaller
+# py -3 -m pip install pyinstaller
